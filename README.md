@@ -1,5 +1,7 @@
 # PyxelEditToPng
 
+![PyxelEditToPng logo](https://github.com/bolon667/PyxelEditToPng/blob/main/gitImages/PyxelEditToPng_logo.jpg)
+
 Python script, which allows you to convert **.pyxel** files into **.png**.
 
 
