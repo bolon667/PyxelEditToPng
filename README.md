@@ -1,6 +1,6 @@
 # PyxelEditToPng
 
-Python script, which allows you to convert .pyxel files to png.
+Python script, which allows you to convert **.pyxel** files into **.png**.
 
 
 ## How to install
